@@ -1,0 +1,5 @@
+{
+  "name": "Building Space Planner",
+  "description": "An interactive tool to allocate different types of spaces within a building's total area using sliders. It visually represents the space distribution and calculates if an extension is needed.",
+  "requestFramePermissions": []
+}
